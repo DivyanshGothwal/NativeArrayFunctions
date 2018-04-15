@@ -1,2 +1,2 @@
 # NativeArrayFunctions
-JavaScript native array function implementations
+JavaScript native array function implementation
